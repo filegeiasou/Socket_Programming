@@ -1,0 +1,2 @@
+server : ./server (port number)
+client : ./client (ip server) (port number)
