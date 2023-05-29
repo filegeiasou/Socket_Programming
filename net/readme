@@ -1,2 +1,0 @@
-server1: ./server1 
-client1: ./client1 /tmp/socket
